@@ -1,0 +1,27 @@
+.travel_maindv
+{
+  border: 1px solid lightcyan;  
+}
+.travel_maindv img
+{
+width:100% ;
+}
+.travel_maindv h5,.travel_maindv p
+{
+    margin: 20px; ;
+}
+.moviehead 
+{
+  font: size 20px; 
+  padding: 6px 22px;
+  border: radius 10px;
+  margin-bottom: 15px;
+}
+.moviehead1 
+{
+  float :right;
+}
+.achivment_text span
+{
+  color :orange;
+}
